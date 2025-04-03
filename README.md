@@ -1,5 +1,5 @@
 ### Hi there 👋 
- I’m a Junior Java Developer.
+ I’m a Java Developer.
 
 <!--
 **midasowo/midasowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
